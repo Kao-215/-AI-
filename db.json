@@ -1,0 +1,20 @@
+{
+  "rooms": [
+    { "id": "R1", "name": "第一會議室（可容納10人）" },
+    { "id": "R2", "name": "第二會議室（可容納6人）" },
+    { "id": "R3", "name": "大型會議室（可容納30人）" }
+  ],
+  "bookings": [],
+  "vendors": [
+    {
+      "id": "V001",
+      "name": "測試廠商 A",
+      "userId": "",
+      "amount": 15000,
+      "dueDate": "2026-08-31",
+      "status": "unpaid",
+      "remindersSent": []
+    }
+  ],
+  "counters": { "bookingSeq": 0 }
+}
